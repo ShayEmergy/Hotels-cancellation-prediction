@@ -1,27 +1,3 @@
-
-Dataset
-[New dataset information section]
-Features
-[Your existing features content]
-Technologies Used
-[Your existing technologies used content]
-Installation
-[Your existing installation instructions]
-Usage
-[Your existing usage instructions]
-Model Performance
-[Your existing model performance content]
-Data Insights
-[Your visualizations and insights]
-Future Improvements
-[Your existing future improvements content]
-Contributing
-[Your existing contributing guidelines]
-License
-[Your existing license information]
-Contact
-[Your existing contact information]
-
 # Hotel Reservation Cancellation Predictor
 
 ## Project Overview
